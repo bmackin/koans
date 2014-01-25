@@ -16,7 +16,7 @@ class AboutNil < Neo::Koan
       assert_equal NoMethodError, ex.class
 
       # What message was attached to the exception?
-      # (HINT: replace __ with part of the error message.)
+      # (HINT: replace __ with part of the error message. )
       assert_match(/undefined method/, ex.message)
     end
   end
