@@ -39,7 +39,7 @@ class AboutObjects < Neo::Koan
     # THINK ABOUT IT:
     # What pattern do the object IDs for small integers follow?
 
-    ###### object id's begin at 1 increase by 2.######
+    ###### object id's begin at 1 and increase by 2. ######
 
   end
 
